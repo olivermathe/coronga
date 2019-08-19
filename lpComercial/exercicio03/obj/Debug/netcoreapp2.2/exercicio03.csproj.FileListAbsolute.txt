@@ -1,0 +1,4 @@
+/home/razor1911/ulbra/lpComercial/exercicio03/obj/Debug/netcoreapp2.2/exercicio03.csprojAssemblyReference.cache
+/home/razor1911/ulbra/lpComercial/exercicio03/obj/Debug/netcoreapp2.2/exercicio03.csproj.CoreCompileInputs.cache
+/home/razor1911/ulbra/lpComercial/exercicio03/obj/Debug/netcoreapp2.2/exercicio03.AssemblyInfoInputs.cache
+/home/razor1911/ulbra/lpComercial/exercicio03/obj/Debug/netcoreapp2.2/exercicio03.AssemblyInfo.cs
