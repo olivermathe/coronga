@@ -1,0 +1,6 @@
+/home/razor1911/ulbra/lpComercial/aula05/obj/Debug/netcoreapp2.2/aula05.csprojAssemblyReference.cache
+/home/razor1911/ulbra/lpComercial/aula05/obj/Debug/netcoreapp2.2/aula05.csproj.CoreCompileInputs.cache
+/home/razor1911/ulbra/lpComercial/aula05/obj/Debug/netcoreapp2.2/aula05.RazorAssemblyInfo.cache
+/home/razor1911/ulbra/lpComercial/aula05/obj/Debug/netcoreapp2.2/aula05.RazorAssemblyInfo.cs
+/home/razor1911/ulbra/lpComercial/aula05/obj/Debug/netcoreapp2.2/aula05.AssemblyInfoInputs.cache
+/home/razor1911/ulbra/lpComercial/aula05/obj/Debug/netcoreapp2.2/aula05.AssemblyInfo.cs

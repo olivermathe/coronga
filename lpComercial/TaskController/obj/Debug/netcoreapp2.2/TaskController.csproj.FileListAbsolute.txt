@@ -1,0 +1,6 @@
+/home/razor1911/ulbra/lpComercial/TaskController/obj/Debug/netcoreapp2.2/TaskController.csprojAssemblyReference.cache
+/home/razor1911/ulbra/lpComercial/TaskController/obj/Debug/netcoreapp2.2/TaskController.csproj.CoreCompileInputs.cache
+/home/razor1911/ulbra/lpComercial/TaskController/obj/Debug/netcoreapp2.2/TaskController.RazorAssemblyInfo.cache
+/home/razor1911/ulbra/lpComercial/TaskController/obj/Debug/netcoreapp2.2/TaskController.RazorAssemblyInfo.cs
+/home/razor1911/ulbra/lpComercial/TaskController/obj/Debug/netcoreapp2.2/TaskController.AssemblyInfoInputs.cache
+/home/razor1911/ulbra/lpComercial/TaskController/obj/Debug/netcoreapp2.2/TaskController.AssemblyInfo.cs

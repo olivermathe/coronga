@@ -1,0 +1,31 @@
+@model IEnumerable<AppPeople.Models.Person> 
+<!-- model do razor tem que receber a view do app pleople-->
+</br></br>
+<a href="People/Create" class="btn btn-primary">Nova Pessoa</a> <!--usou o esquema do botao do bootstrap-->
+</br></br>
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Endereço</th>
+                <th></th>
+                <th></th>
+            </tr>
+            </tr>
+        </thead>
+        @foreach(var item in Model)
+        { 
+            <tr>
+                <td>@item.id</td>
+                <td>@item.name</td>
+                <td>@item.address</td>
+                <td><a class="btn btn-danger"
+                         href="People/Delete/@item.id">Delete</a> </td>
+                <td><a class="btn btn-primary"
+                         href="People/Edit/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>
+</div>

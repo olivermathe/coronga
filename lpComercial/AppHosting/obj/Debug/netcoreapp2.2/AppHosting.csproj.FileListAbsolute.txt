@@ -1,0 +1,11 @@
+/home/razor1911/ulbra/lpComercial/AppHosting/bin/Debug/netcoreapp2.2/AppHosting.deps.json
+/home/razor1911/ulbra/lpComercial/AppHosting/bin/Debug/netcoreapp2.2/AppHosting.runtimeconfig.json
+/home/razor1911/ulbra/lpComercial/AppHosting/bin/Debug/netcoreapp2.2/AppHosting.runtimeconfig.dev.json
+/home/razor1911/ulbra/lpComercial/AppHosting/bin/Debug/netcoreapp2.2/AppHosting.dll
+/home/razor1911/ulbra/lpComercial/AppHosting/bin/Debug/netcoreapp2.2/AppHosting.pdb
+/home/razor1911/ulbra/lpComercial/AppHosting/obj/Debug/netcoreapp2.2/AppHosting.csprojAssemblyReference.cache
+/home/razor1911/ulbra/lpComercial/AppHosting/obj/Debug/netcoreapp2.2/AppHosting.csproj.CoreCompileInputs.cache
+/home/razor1911/ulbra/lpComercial/AppHosting/obj/Debug/netcoreapp2.2/AppHosting.AssemblyInfoInputs.cache
+/home/razor1911/ulbra/lpComercial/AppHosting/obj/Debug/netcoreapp2.2/AppHosting.AssemblyInfo.cs
+/home/razor1911/ulbra/lpComercial/AppHosting/obj/Debug/netcoreapp2.2/AppHosting.dll
+/home/razor1911/ulbra/lpComercial/AppHosting/obj/Debug/netcoreapp2.2/AppHosting.pdb
