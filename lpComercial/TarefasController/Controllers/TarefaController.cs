@@ -1,12 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
 using System;
 using TarefasController.Models;
-
-namespace TarefaController.Controllers
+namespace TarefasController.Controllers
 {
-    public class TarefaController : Controller
+    public class TarefasController : Controller
     {
-        TarefaController _repository = new TarefaController();
+        TarefasController _repository = new TarefasController();
         public IActionResult Index()
         {
          /*var é pra quando nao sabe o tipo */ 
@@ -33,12 +32,10 @@ namespace TarefaController.Controllers
             var tarefas = _repository.GetById(id);
             return View(tarefas);   
         }
-
         private object GetById(int id)
         {
             throw new NotImplementedException();
         }
-
         [HttpPost]
         public IActionResult Edit(Tarefa tarefaAlterada)
         {

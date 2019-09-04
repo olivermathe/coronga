@@ -5,7 +5,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using TarefasController.Models;
-
 namespace TarefasController.Controllers
 {
     public class HomeController : Controller

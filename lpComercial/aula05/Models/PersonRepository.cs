@@ -18,14 +18,13 @@ namespace AppPeople.Models
         }
         public Person GetById(int id)
         {
-            return people.Find(i=>i.id == id); //lambda
-        
+            return people.Find(i=>i.id == id); //função lambda
         }
         public void Delete(int id)
         {
             people.Remove(GetById(id));
         }
-        public void Update (Person person)
+        public void Update (Person person)  
         {
             var index = people.FindIndex(x=>x.id == person.id);
             people[index].name = person.name;

@@ -16,9 +16,9 @@ namespace TarefasController.Models
         {
             return tarefas;
         }
-        /* public Tarefa GetByPrioridade (int prioridade)
+        /* public Tarefa GetById (int id)
         {
-            return tarefa.Find(x=>x.prioridade == prioridade);
+            return tarefa.Find(x=>x.id == id);
         }*/
         public Tarefa GetById (int id)
         {
