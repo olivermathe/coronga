@@ -28,3 +28,6 @@
 /home/razor1911/ulbra/lpComercial/TarefasController/obj/Debug/netcoreapp2.2/TarefasController.dll
 /home/razor1911/ulbra/lpComercial/TarefasController/obj/Debug/netcoreapp2.2/TarefasController.pdb
 /home/razor1911/ulbra/lpComercial/TarefasController/obj/Debug/netcoreapp2.2/TarefasController.csproj.CopyComplete
+/home/razor1911/ulbra/lpComercial/TarefasController/obj/Debug/netcoreapp2.2/Razor/Views/Tarefa/Create.g.cshtml.cs
+/home/razor1911/ulbra/lpComercial/TarefasController/obj/Debug/netcoreapp2.2/Razor/Views/Tarefa/Edit.g.cshtml.cs
+/home/razor1911/ulbra/lpComercial/TarefasController/obj/Debug/netcoreapp2.2/Razor/Views/Tarefa/Index.g.cshtml.cs

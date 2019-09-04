@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-namespace TarefaController.Models
+namespace TarefasController.Models
 {
     public class TarefaRepository
     {
@@ -20,23 +20,23 @@ namespace TarefaController.Models
         {
             return tarefa.Find(x=>x.prioridade == prioridade);
         }*/
-        public Tarefa GetByPrioridade (int prioridade)
+        public Tarefa GetById (int id)
         {
-            return tarefas.Find(x=>x.prioridade == prioridade);
+            return tarefas.Find(x=>x.id == id);
         }
-        internal void Edit (int prioridade)
+        internal void Edit (int id)
         {
             throw new NotImplementedException();
         }
-        public void Delete(int prioridade)
+        public void Delete(int id)
         {
-            tarefas.Remove(GetByPrioridade(prioridade));
+            tarefas.Remove(GetById(id));
         }
         public void Update (Tarefa tarefa)
         {
-            var index = tarefas.FindIndex(x=>x.prioridade==tarefa.prioridade);
+            var index = tarefas.FindIndex(x=>x.id==tarefa.id);
             tarefas[index].tarefaNome=tarefa.tarefaNome;
-            tarefas[index].prioridade=tarefa.prioridade;
+            tarefas[index].id=tarefa.id;
             tarefas[index].dataLimite=tarefa.dataLimite;
             tarefas[index].percentConcluido=tarefa.percentConcluido;
         }

@@ -2981,6 +2981,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views/Tarefa/Edit.cshtml",
+      "TargetPath": "Views/Tarefa/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views/_ViewImports.cshtml",
       "TargetPath": "Views/_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -2993,6 +2998,11 @@
     {
       "FilePath": "Views/Tarefa/Create.cshtml",
       "TargetPath": "Views/Tarefa/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Tarefa/Index.cshtml",
+      "TargetPath": "Views/Tarefa/Index.cshtml",
       "FileKind": "mvc"
     },
     {

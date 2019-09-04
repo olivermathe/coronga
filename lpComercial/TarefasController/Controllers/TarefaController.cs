@@ -1,6 +1,6 @@
-using TarefaController.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
+using TarefasController.Models;
 
 namespace TarefaController.Controllers
 {
@@ -11,13 +11,12 @@ namespace TarefaController.Controllers
         {
          /*var é pra quando nao sabe o tipo */ 
            var tarefas = _repository.GetAll();   //esta buscando todos os elementos da lista person
-            return View(tarefas); //depois mandar para o metodo view
+           return View(tarefas); //depois mandar para o metodo view
         }
         private object GetAll()
         {
             throw new NotImplementedException();
         }
-
         [HttpGet]
         public IActionResult Create()
         {
@@ -27,16 +26,15 @@ namespace TarefaController.Controllers
         public IActionResult Create(Tarefa tarefa)
         {
             _repository.Create(tarefa);
-
-            return RedirectToAction("index");
+            return RedirectToAction("Index");
         }
-       public IActionResult Edit(int prioridade)
+       public IActionResult Edit(int id)
         {
-            var tarefas = _repository.GetByPrioridade(prioridade);
+            var tarefas = _repository.GetById(id);
             return View(tarefas);   
         }
 
-        private object GetByPrioridade(int prioridade)
+        private object GetById(int id)
         {
             throw new NotImplementedException();
         }
@@ -51,9 +49,9 @@ namespace TarefaController.Controllers
         {
             throw new NotImplementedException();
         }
-        public IActionResult Delete(int prioridade)
+        public IActionResult Delete(int id)
         {
-            _repository.Delete(prioridade);
+            _repository.Delete(id);
             return RedirectToAction("Index");
         }   
     }
