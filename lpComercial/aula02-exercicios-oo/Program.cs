@@ -14,7 +14,6 @@ namespace aula02_exercicios_oo
             CartaoCredito cartao1 =  new CartaoCredito("1456987", new DateTime(2019,12,31),oCassio);
             CartaoCredito cartao2 =  new CartaoCredito("123456", new DateTime(2020,12,31),oCamila);
 
-            
            Console.WriteLine($"cartao1:{cartao1.numero} / {cartao1.validadeCartao.ToString("MM-yyyy")}");
            Console.WriteLine($"cartao2:{cartao2.numero} / {cartao2.validadeCartao.ToString("MM-yyyy")}");
            
