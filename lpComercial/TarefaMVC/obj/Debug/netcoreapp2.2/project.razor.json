@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/razor1911/Desktop/TarefaMVC/TarefaMVC.csproj",
+  "FilePath": "/home/razor1911/ulbra/lpComercial/TarefaMVC/TarefaMVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2981,13 +2981,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Tarefa/Edit.cshtml",
-      "TargetPath": "Views/Tarefa/Edit.cshtml",
+      "FilePath": "Views/_ViewImports.cshtml",
+      "TargetPath": "Views/_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/_ViewImports.cshtml",
-      "TargetPath": "Views/_ViewImports.cshtml",
+      "FilePath": "Views/Tarefas/Edit.cshtml",
+      "TargetPath": "Views/Tarefas/Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2996,13 +2996,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Tarefa/Create.cshtml",
-      "TargetPath": "Views/Tarefa/Create.cshtml",
+      "FilePath": "Views/Tarefas/Create.cshtml",
+      "TargetPath": "Views/Tarefas/Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Tarefa/Index.cshtml",
-      "TargetPath": "Views/Tarefa/Index.cshtml",
+      "FilePath": "Views/Tarefas/Index.cshtml",
+      "TargetPath": "Views/Tarefas/Index.cshtml",
       "FileKind": "mvc"
     },
     {

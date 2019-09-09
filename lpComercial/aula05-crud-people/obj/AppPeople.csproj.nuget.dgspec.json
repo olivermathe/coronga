@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/razor1911/Data/Ulbra/lpComercial/aula05-crud-people/AppPeople.csproj": {}
+    "/home/razor1911/ulbra/lpComercial/aula05-crud-people/AppPeople.csproj": {}
   },
   "projects": {
-    "/media/razor1911/Data/Ulbra/lpComercial/aula05-crud-people/AppPeople.csproj": {
+    "/home/razor1911/ulbra/lpComercial/aula05-crud-people/AppPeople.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/razor1911/Data/Ulbra/lpComercial/aula05-crud-people/AppPeople.csproj",
+        "projectUniqueName": "/home/razor1911/ulbra/lpComercial/aula05-crud-people/AppPeople.csproj",
         "projectName": "AppPeople",
-        "projectPath": "/media/razor1911/Data/Ulbra/lpComercial/aula05-crud-people/AppPeople.csproj",
+        "projectPath": "/home/razor1911/ulbra/lpComercial/aula05-crud-people/AppPeople.csproj",
         "packagesPath": "/home/razor1911/.nuget/packages/",
-        "outputPath": "/media/razor1911/Data/Ulbra/lpComercial/aula05-crud-people/obj/",
+        "outputPath": "/home/razor1911/ulbra/lpComercial/aula05-crud-people/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
