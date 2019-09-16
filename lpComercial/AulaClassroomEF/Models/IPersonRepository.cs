@@ -11,7 +11,7 @@ namespace AulaClassroomEF.Models
          void Delete(int id);
 
          void GetById(int id);
-
+         
          List<Person> Getall(); 
     }
 }

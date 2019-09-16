@@ -5,7 +5,6 @@ namespace AulaClassroomEF.Models {
         public Person() //o EF precisa de um construtor vazio para trabalhar alguamas coisas
         {
         }
-
         public Person (int id, string name, string address) {
             this.id = id;
             this.name = name;

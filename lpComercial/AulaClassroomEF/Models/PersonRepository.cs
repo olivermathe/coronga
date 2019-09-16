@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-
 namespace AulaClassroomEF.Models
 {
     public class PersonRepository : IPersonRepository
