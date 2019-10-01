@@ -2961,8 +2961,28 @@
   "RootNamespace": "TarefasArnaldo",
   "Documents": [
     {
+      "FilePath": "Views/Tarefas/Delete.cshtml",
+      "TargetPath": "Views/Tarefas/Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Tarefas/Edit.cshtml",
+      "TargetPath": "Views/Tarefas/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views/Home/Privacy.cshtml",
       "TargetPath": "Views/Home/Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Tarefas/Index.cshtml",
+      "TargetPath": "Views/Tarefas/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Tarefas/Create.cshtml",
+      "TargetPath": "Views/Tarefas/Create.cshtml",
       "FileKind": "mvc"
     },
     {
