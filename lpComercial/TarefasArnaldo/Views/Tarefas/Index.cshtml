@@ -1,0 +1,35 @@
+@model IEnumerable<TarefasArnaldo.Models.Tarefas>
+    
+</br></br>
+<a href="Tarefas/Create" class="btn btn-primary">Nova Tarefa</a>
+</br></br>
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome tarefa</th>
+                <th>data limite</th>
+                <th>percent concluido</th>
+                <th></th>
+            </tr>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.nome</td>
+                <td>@item.dataLimite</td>
+                <td>@item.percentConcluido</td>
+
+                <td><a class="btn btn-danger"
+                    href="Tarefas/Delete/@item.id">Delete</a> </td>
+                <td><a class="btn btn-primary" 
+                    href="Tarefas/Edit/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>
+</div>
