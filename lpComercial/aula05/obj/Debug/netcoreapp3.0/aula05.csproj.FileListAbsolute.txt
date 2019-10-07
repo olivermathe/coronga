@@ -1,0 +1,11 @@
+/Users/aldrinjr/ulbra/lpComercial/aula05/bin/Debug/netcoreapp3.0/aula05
+/Users/aldrinjr/ulbra/lpComercial/aula05/bin/Debug/netcoreapp3.0/aula05.deps.json
+/Users/aldrinjr/ulbra/lpComercial/aula05/bin/Debug/netcoreapp3.0/aula05.runtimeconfig.json
+/Users/aldrinjr/ulbra/lpComercial/aula05/bin/Debug/netcoreapp3.0/aula05.runtimeconfig.dev.json
+/Users/aldrinjr/ulbra/lpComercial/aula05/bin/Debug/netcoreapp3.0/aula05.dll
+/Users/aldrinjr/ulbra/lpComercial/aula05/bin/Debug/netcoreapp3.0/aula05.pdb
+/Users/aldrinjr/ulbra/lpComercial/aula05/obj/Debug/netcoreapp3.0/aula05.csprojAssemblyReference.cache
+/Users/aldrinjr/ulbra/lpComercial/aula05/obj/Debug/netcoreapp3.0/aula05.AssemblyInfoInputs.cache
+/Users/aldrinjr/ulbra/lpComercial/aula05/obj/Debug/netcoreapp3.0/aula05.AssemblyInfo.cs
+/Users/aldrinjr/ulbra/lpComercial/aula05/obj/Debug/netcoreapp3.0/aula05.dll
+/Users/aldrinjr/ulbra/lpComercial/aula05/obj/Debug/netcoreapp3.0/aula05.pdb

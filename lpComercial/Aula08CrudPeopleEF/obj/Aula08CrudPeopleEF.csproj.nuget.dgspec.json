@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj": {}
+    "/Users/aldrinjr/ulbra/lpComercial/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj": {}
   },
   "projects": {
-    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj": {
+    "/Users/aldrinjr/ulbra/lpComercial/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj",
+        "projectUniqueName": "/Users/aldrinjr/ulbra/lpComercial/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj",
         "projectName": "Aula08CrudPeopleEF",
-        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj",
-        "packagesPath": "/home/cassio/.nuget/packages/",
-        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula08CrudPeopleEF/obj/",
+        "projectPath": "/Users/aldrinjr/ulbra/lpComercial/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj",
+        "packagesPath": "/Users/aldrinjr/.nuget/packages/",
+        "outputPath": "/Users/aldrinjr/ulbra/lpComercial/Aula08CrudPeopleEF/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/cassio/.nuget/NuGet/NuGet.Config"
+          "/Users/aldrinjr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -62,10 +62,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

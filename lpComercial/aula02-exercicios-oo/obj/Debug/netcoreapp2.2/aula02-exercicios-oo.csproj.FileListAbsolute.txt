@@ -20,3 +20,13 @@
 /home/razor1911/ulbra/lpComercial/aula02-exercicios-oo/obj/Debug/netcoreapp2.2/aula02-exercicios-oo.AssemblyInfo.cs
 /home/razor1911/ulbra/lpComercial/aula02-exercicios-oo/obj/Debug/netcoreapp2.2/aula02-exercicios-oo.dll
 /home/razor1911/ulbra/lpComercial/aula02-exercicios-oo/obj/Debug/netcoreapp2.2/aula02-exercicios-oo.pdb
+/Users/aldrinjr/ulbra/lpComercial/aula02-exercicios-oo/bin/Debug/netcoreapp2.2/aula02-exercicios-oo.deps.json
+/Users/aldrinjr/ulbra/lpComercial/aula02-exercicios-oo/bin/Debug/netcoreapp2.2/aula02-exercicios-oo.runtimeconfig.json
+/Users/aldrinjr/ulbra/lpComercial/aula02-exercicios-oo/bin/Debug/netcoreapp2.2/aula02-exercicios-oo.runtimeconfig.dev.json
+/Users/aldrinjr/ulbra/lpComercial/aula02-exercicios-oo/bin/Debug/netcoreapp2.2/aula02-exercicios-oo.dll
+/Users/aldrinjr/ulbra/lpComercial/aula02-exercicios-oo/bin/Debug/netcoreapp2.2/aula02-exercicios-oo.pdb
+/Users/aldrinjr/ulbra/lpComercial/aula02-exercicios-oo/obj/Debug/netcoreapp2.2/aula02-exercicios-oo.csprojAssemblyReference.cache
+/Users/aldrinjr/ulbra/lpComercial/aula02-exercicios-oo/obj/Debug/netcoreapp2.2/aula02-exercicios-oo.AssemblyInfoInputs.cache
+/Users/aldrinjr/ulbra/lpComercial/aula02-exercicios-oo/obj/Debug/netcoreapp2.2/aula02-exercicios-oo.AssemblyInfo.cs
+/Users/aldrinjr/ulbra/lpComercial/aula02-exercicios-oo/obj/Debug/netcoreapp2.2/aula02-exercicios-oo.dll
+/Users/aldrinjr/ulbra/lpComercial/aula02-exercicios-oo/obj/Debug/netcoreapp2.2/aula02-exercicios-oo.pdb

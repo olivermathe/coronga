@@ -1,24 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Logging;
-
-namespace aula05
+namespace aula05.domain
 {
-    public class Program
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
-        }
+            //instanciar clientes
+            Cliente clienteAldrin = new Cliente("clienteAldrin", 1, 5000);
+            Cliente clinteFulano = new Cliente("fulano", 2, 1000);
 
-        public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();
+            CartaoCredito cartao01 = new CartaoCredito(1, new DateTime(2019,10/31), clienteAldrin);
+            CartaoCredito cartao02 = new CartaoCredito(2, new DateTime(2019,12,12), clinteFulano);
+
+            Console.WriteLine($"cartao1:{cartao01.numero} / {cartao01.dataValidade.ToString("MM-yyyy")} / {cartao01.cliente}");
+            Console.WriteLine($"cartao2:{cartao02.numero} / {cartao02.dataValidade.ToString("MM-yyyy")}");
+        }
     }
 }

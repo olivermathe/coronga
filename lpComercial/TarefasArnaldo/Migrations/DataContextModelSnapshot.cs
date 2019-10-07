@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using TarefasArnaldo.Models;
-//aqui é implementado a migração das classes para o banco de dados 
+
 namespace TarefasArnaldo.Migrations
 {
     [DbContext(typeof(DataContext))]
@@ -14,19 +14,29 @@ namespace TarefasArnaldo.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.SerialColumn)
-                .HasAnnotation("ProductVersion", "2.2.6-servicing-10079")
+                .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn)
+                .HasAnnotation("ProductVersion", "3.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
-            modelBuilder.Entity("TarefasArnaldo.Models.Tarefas", b =>
-                {   
+            modelBuilder.Entity("TarefasArnaldo.Models.Task", b =>
+                {
                     b.Property<int>("id")
-                        .ValueGeneratedOnAdd();
-                    b.Property<string>("dataLimite");
-                    b.Property<string>("nome");
-                    b.Property<int>("percentConcluido");
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn);
+
+                    b.Property<string>("date")
+                        .HasColumnType("text");
+
+                    b.Property<string>("name")
+                        .HasColumnType("text");
+
+                    b.Property<string>("percentComplete")
+                        .HasColumnType("text");
+
                     b.HasKey("id");
-                    b.ToTable("Tarefas");
+
+                    b.ToTable("TarefasArnaldo");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/razor1911/ulbra/lpComercial/aula05/aula05.csproj": {}
+    "/Users/aldrinjr/ulbra/lpComercial/aula05/aula05.csproj": {}
   },
   "projects": {
-    "/home/razor1911/ulbra/lpComercial/aula05/aula05.csproj": {
+    "/Users/aldrinjr/ulbra/lpComercial/aula05/aula05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/razor1911/ulbra/lpComercial/aula05/aula05.csproj",
+        "projectUniqueName": "/Users/aldrinjr/ulbra/lpComercial/aula05/aula05.csproj",
         "projectName": "aula05",
-        "projectPath": "/home/razor1911/ulbra/lpComercial/aula05/aula05.csproj",
-        "packagesPath": "/home/razor1911/.nuget/packages/",
-        "outputPath": "/home/razor1911/ulbra/lpComercial/aula05/obj/",
+        "projectPath": "/Users/aldrinjr/ulbra/lpComercial/aula05/aula05.csproj",
+        "packagesPath": "/Users/aldrinjr/.nuget/packages/",
+        "outputPath": "/Users/aldrinjr/ulbra/lpComercial/aula05/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/razor1911/.nuget/NuGet/NuGet.Config"
+          "/Users/aldrinjr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -37,31 +37,23 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.0": {
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

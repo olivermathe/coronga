@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aldrinjr/ulbra/lpComercial/TarefasArnaldo/TarefasArnaldo.csproj": {}
+    "/Users/aldrinjr/ulbra/TarefasArnaldo/TarefasArnaldo.csproj": {}
   },
   "projects": {
-    "/Users/aldrinjr/ulbra/lpComercial/TarefasArnaldo/TarefasArnaldo.csproj": {
+    "/Users/aldrinjr/ulbra/TarefasArnaldo/TarefasArnaldo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aldrinjr/ulbra/lpComercial/TarefasArnaldo/TarefasArnaldo.csproj",
+        "projectUniqueName": "/Users/aldrinjr/ulbra/TarefasArnaldo/TarefasArnaldo.csproj",
         "projectName": "TarefasArnaldo",
-        "projectPath": "/Users/aldrinjr/ulbra/lpComercial/TarefasArnaldo/TarefasArnaldo.csproj",
+        "projectPath": "/Users/aldrinjr/ulbra/TarefasArnaldo/TarefasArnaldo.csproj",
         "packagesPath": "/Users/aldrinjr/.nuget/packages/",
-        "outputPath": "/Users/aldrinjr/ulbra/lpComercial/TarefasArnaldo/obj/",
+        "outputPath": "/Users/aldrinjr/ulbra/TarefasArnaldo/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -20,13 +20,13 @@
           "/Users/aldrinjr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -37,28 +37,21 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp3.0": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[3.0.0, )"
             },
-            "Microsoft.AspNetCore.Razor.Design": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[3.0.0, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[2.2.4, )"
+              "version": "[3.0.1, )"
             }
           },
           "imports": [
@@ -71,6 +64,14 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
