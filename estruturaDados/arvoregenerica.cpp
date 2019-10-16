@@ -1,15 +1,15 @@
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 #include <malloc/malloc.h>
 
 struct arvoregenerica *crianodo(int ch);
 void insere_direita (struct nodo **lista, struct nodo **fim, struct arvoregenerica *st);
+int conta_nodos(struct arvoregenerica *raiz);
 void remove (struct nodo **lista, struct nodo **fim, struct arvoregenerica *st);
 void adicionasubarvore (struct arvoregenerica *arvore, struct arvoregenerica *st);
 void removesubarvore (struct arvoregenerica *arvore, struct arvoregenerica *st);
 void mostra_arvore(struct arvoregenerica *raiz);
 void libera_arvore(struct arvoregenerica *raiz);
-
 
 struct arvoregenerica{
 	int chave;
@@ -35,7 +35,6 @@ struct arvoregenerica *crianodo(int ch){
 	return p;
 }
 
-
 void insere_direita (struct nodo **lista, struct nodo **fim, struct arvoregenerica *st)
 {
 	struct nodo *aux;
@@ -49,6 +48,20 @@ void insere_direita (struct nodo **lista, struct nodo **fim, struct arvoregeneri
 			(*fim)->prox = aux;
 		*fim = aux;
 	} 
+}
+//Criar um método que conte os nodos de uma árvore genérica
+int conta_nodos(struct arvoregenerica *raiz){
+struct nodo *p;
+int c = 0;
+if (raiz==NULL) return c;
+c++;
+p=raiz->lista;
+while(p!=NULL){
+c = c + conta_nodos(p->filho);
+p=p->prox;
+}
+return c;
+printf("%d", c);
 }
 
 void remove (struct nodo **lista, struct nodo **fim, struct arvoregenerica *st)
@@ -72,13 +85,11 @@ void adicionasubarvore (struct arvoregenerica *arvore, struct arvoregenerica *st
 	arvore->grau = arvore->grau +1;
 }
 
-
 void removesubarvore (struct arvoregenerica *arvore, struct arvoregenerica *st){
 	remove(&arvore->lista, &arvore->fim, st);
-	arvore->grau--;
-	
+	arvore->grau--;	
 }
-    
+
 void mostra_arvore(struct arvoregenerica *raiz){
 	struct nodo *p;
 	if (raiz==NULL) return;
@@ -95,7 +106,7 @@ void libera_arvore(struct arvoregenerica *raiz){
 	if (raiz==NULL) return;
 	if (raiz->lista==NULL) {
 		free(raiz);
-		raiz==NULL;
+		//raiz==NULL;
 	}
 	else {
 	p=raiz->lista;
@@ -105,9 +116,8 @@ void libera_arvore(struct arvoregenerica *raiz){
 		p=p->prox;
 		free(f);
 	} raiz->lista = NULL;
+	}
 }
-}
-
 
 int main() {
 	struct nodo *p;
@@ -126,6 +136,8 @@ int main() {
     adicionasubarvore(p->filho, crianodo(9));
     adicionasubarvore(p->filho, crianodo(10));
     
+	conta_nodos(raiz);
+
     mostra_arvore(raiz);
     libera_arvore(raiz);
    
