@@ -1,0 +1,59 @@
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.deps.json
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csprojAssemblyReference.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CoreCompileInputs.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfoInputs.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfo.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CopyComplete
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.deps.json
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csprojAssemblyReference.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CoreCompileInputs.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfoInputs.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfo.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CopyComplete
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto2/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.deps.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csprojAssemblyReference.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CoreCompileInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfoInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CopyComplete
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.deps.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csprojAssemblyReference.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CoreCompileInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfoInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CopyComplete
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.pdb
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.deps.json
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.dll
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.pdb
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.dll
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.pdb
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csprojAssemblyReference.cache
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfoInputs.cache
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfo.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CopyComplete
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.dll
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.pdb

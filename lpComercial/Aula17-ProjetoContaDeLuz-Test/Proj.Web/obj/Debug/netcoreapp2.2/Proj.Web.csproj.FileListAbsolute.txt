@@ -1,0 +1,122 @@
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csprojAssemblyReference.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csproj.CoreCompileInputs.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorAssemblyInfo.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorAssemblyInfo.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.AssemblyInfoInputs.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.AssemblyInfo.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.TagHelpers.input.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.TagHelpers.output.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorCoreGenerate.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Index.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorTargetAssemblyInfo.cache
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorTargetAssemblyInfo.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.deps.json
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.runtimeconfig.json
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.runtimeconfig.dev.json
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.Views.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.Views.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Domain.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Repository.dll
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Repository.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Domain.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.Views.pdb
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csproj.CopyComplete
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Create.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Create.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Index.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Update.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/View.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Update.g.cshtml.cs
+C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_Projeto1/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/View.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.deps.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.runtimeconfig.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.runtimeconfig.dev.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.Views.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.Views.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Repository.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Repository.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Domain.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csprojAssemblyReference.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csproj.CoreCompileInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorAssemblyInfo.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorAssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.AssemblyInfoInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.AssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.TagHelpers.input.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.TagHelpers.output.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorCoreGenerate.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Create.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Index.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Update.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/View.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Create.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Index.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Update.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/View.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorTargetAssemblyInfo.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorTargetAssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.Views.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csproj.CopyComplete
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Correções2019-2/CSharp-TrabalhoG2-Api-master/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.pdb
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.deps.json
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.runtimeconfig.json
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.runtimeconfig.dev.json
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.dll
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.pdb
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.Views.dll
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.Views.pdb
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Domain.dll
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Repository.dll
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Repository.pdb
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Domain.pdb
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csprojAssemblyReference.cache
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorAssemblyInfo.cache
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorAssemblyInfo.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.AssemblyInfoInputs.cache
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.AssemblyInfo.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.TagHelpers.input.cache
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.TagHelpers.output.cache
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorCoreGenerate.cache
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Create.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Index.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Update.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/View.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Create.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Index.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Update.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/View.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorTargetAssemblyInfo.cache
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorTargetAssemblyInfo.cs
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.Views.pdb
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csproj.CopyComplete
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.dll
+/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.pdb
