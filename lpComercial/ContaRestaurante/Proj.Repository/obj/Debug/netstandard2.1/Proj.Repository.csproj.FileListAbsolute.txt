@@ -1,0 +1,11 @@
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/bin/Debug/netstandard2.1/Proj.Repository.deps.json
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/bin/Debug/netstandard2.1/Proj.Repository.dll
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/bin/Debug/netstandard2.1/Proj.Repository.pdb
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/bin/Debug/netstandard2.1/Proj.Domain.dll
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/bin/Debug/netstandard2.1/Proj.Domain.pdb
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/obj/Debug/netstandard2.1/Proj.Repository.csprojAssemblyReference.cache
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/obj/Debug/netstandard2.1/Proj.Repository.AssemblyInfoInputs.cache
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/obj/Debug/netstandard2.1/Proj.Repository.AssemblyInfo.cs
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/obj/Debug/netstandard2.1/Proj.Repository.csproj.CopyComplete
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/obj/Debug/netstandard2.1/Proj.Repository.dll
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Repository/obj/Debug/netstandard2.1/Proj.Repository.pdb

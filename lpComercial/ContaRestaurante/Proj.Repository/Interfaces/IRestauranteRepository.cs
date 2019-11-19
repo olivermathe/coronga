@@ -1,7 +1,9 @@
+using restaurante.domain;
+
 namespace Proj.Repository.Interfaces
 {
-    public class IRestauranteRepository
+    public interface IRestauranteRepository : IBaseRepository <Restaurante>
     {
-        
+         
     }
 }
