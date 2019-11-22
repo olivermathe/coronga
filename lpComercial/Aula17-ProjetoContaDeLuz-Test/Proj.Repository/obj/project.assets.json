@@ -2914,11 +2914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/Proj.Repository.csproj",
+      "projectUniqueName": "/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/Proj.Repository.csproj",
       "projectName": "Proj.Repository",
-      "projectPath": "/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/Proj.Repository.csproj",
+      "projectPath": "/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/Proj.Repository.csproj",
       "packagesPath": "/Users/aldrinjr/.nuget/packages/",
-      "outputPath": "/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/",
+      "outputPath": "/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -2935,8 +2935,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/Proj.Domain.csproj": {
-              "projectPath": "/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/Proj.Domain.csproj"
+            "/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/Proj.Domain.csproj": {
+              "projectPath": "/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/Proj.Domain.csproj"
             }
           }
         }

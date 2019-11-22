@@ -1,0 +1,58 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Proj.Domain.Entities;
+using Proj.Repository.Interfaces;
+
+namespace Proj.Web.Controllers
+{
+    public class RestauranteController : Controller
+    {
+        private IRestauranteRepository restauranteRepository;
+
+        public RestauranteController(IRestauranteRepository restauranteRepository)
+        {
+            this.restauranteRepository = restauranteRepository;
+        }
+
+        public IActionResult Index()
+        {
+            return View(restauranteRepository.GetAll());
+        }
+
+        public IActionResult View(int id)
+        {
+            return View(restauranteRepository.GetByID(id));
+        }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public RedirectToActionResult Create(Restaurante entity)
+        {
+            restauranteRepository.Create(entity);
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult Update(int id)
+        {
+            return View(restauranteRepository.GetByID(id));
+        }
+
+        [HttpPost]
+        public RedirectToActionResult Update(Restaurante entity)
+        {
+            restauranteRepository.Update(entity);
+            return RedirectToAction("Index");
+        }
+
+        public RedirectToActionResult Delete(int id)
+        {
+            restauranteRepository.Delete(id);
+            return RedirectToAction("Index");
+        }
+    }
+}

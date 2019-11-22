@@ -19,15 +19,18 @@ namespace Proj.Repository.Migrations
                 .HasAnnotation("ProductVersion", "3.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
-            modelBuilder.Entity("restaurante.domain.Consumo", b =>
+            modelBuilder.Entity("Proj.Domain.Entities.Consumo", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer")
                         .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn);
 
-                    b.Property<string>("data")
-                        .HasColumnType("text");
+                    b.Property<DateTime>("data")
+                        .HasColumnType("timestamp without time zone");
+
+                    b.Property<int>("idRestaurante")
+                        .HasColumnType("integer");
 
                     b.Property<int?>("restauranteid")
                         .HasColumnType("integer");
@@ -42,7 +45,7 @@ namespace Proj.Repository.Migrations
                     b.ToTable("Consumos");
                 });
 
-            modelBuilder.Entity("restaurante.domain.Restaurante", b =>
+            modelBuilder.Entity("Proj.Domain.Entities.Restaurante", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
@@ -69,11 +72,12 @@ namespace Proj.Repository.Migrations
                     b.ToTable("Restaurantes");
                 });
 
-            modelBuilder.Entity("restaurante.domain.Consumo", b =>
+            modelBuilder.Entity("Proj.Domain.Entities.Consumo", b =>
                 {
-                    b.HasOne("restaurante.domain.Restaurante", "restaurante")
-                        .WithMany()
-                        .HasForeignKey("restauranteid");
+                    b.HasOne("Proj.Domain.Entities.Restaurante", "restaurante")
+                        .WithMany("consumo")
+                        .HasForeignKey("restauranteid")
+                        .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
         }

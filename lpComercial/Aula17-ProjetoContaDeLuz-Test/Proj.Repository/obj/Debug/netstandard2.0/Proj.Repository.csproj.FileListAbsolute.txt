@@ -57,3 +57,14 @@ C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_P
 /Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CopyComplete
 /Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.dll
 /Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.deps.json
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.dll
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/bin/Debug/netstandard2.0/Proj.Repository.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.dll
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/bin/Debug/netstandard2.0/Proj.Domain.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csprojAssemblyReference.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfoInputs.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.AssemblyInfo.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.csproj.CopyComplete
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.dll
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Repository/obj/Debug/netstandard2.0/Proj.Repository.pdb

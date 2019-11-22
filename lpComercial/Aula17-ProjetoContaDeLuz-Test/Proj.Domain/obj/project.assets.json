@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/Proj.Domain.csproj",
+      "projectUniqueName": "/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/Proj.Domain.csproj",
       "projectName": "Proj.Domain",
-      "projectPath": "/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/Proj.Domain.csproj",
+      "projectPath": "/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/Proj.Domain.csproj",
       "packagesPath": "/Users/aldrinjr/.nuget/packages/",
-      "outputPath": "/Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/obj/",
+      "outputPath": "/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

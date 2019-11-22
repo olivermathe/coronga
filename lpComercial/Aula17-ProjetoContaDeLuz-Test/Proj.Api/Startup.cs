@@ -36,8 +36,8 @@ namespace Proj.Api
 
             services.AddDbContext<DataContext>(x => x.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddScoped<IContaLuzRepository, ContaLuzRepository>();
-            services.AddScoped<IImovelRepository, ImovelRepository>();
+            services.AddScoped<IContaRestauranteRepository, ContaRestauranteRepository>();
+            services.AddScoped<IRestauranteRepository, RestauranteRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

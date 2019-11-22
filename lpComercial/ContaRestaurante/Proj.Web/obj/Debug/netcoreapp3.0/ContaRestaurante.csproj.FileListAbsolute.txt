@@ -54,12 +54,11 @@
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/ContaRestaurante.csproj.CopyComplete
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/ContaRestaurante.dll
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/ContaRestaurante.pdb
-/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Contas Restaurante/Create.cshtml.g.cs
-/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Contas Restaurante/Index.cshtml.g.cs
-/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Contas Restaurante/Update.cshtml.g.cs
-/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Contas Restaurante/View.cshtml.g.cs
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Restaurante/Create.cshtml.g.cs
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Restaurante/Index.cshtml.g.cs
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Restaurante/Update.cshtml.g.cs
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Restaurante/View.cshtml.g.cs
-/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/bin/Debug/netcoreapp3.0/System.Web.Razor.dll
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Consumo/Create.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Consumo/Index.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Consumo/Update.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Web/obj/Debug/netcoreapp3.0/Razor/Views/Consumo/View.cshtml.g.cs

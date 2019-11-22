@@ -7,7 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using ContaRestaurante.Models;
 using Proj.Repository.Interfaces;
-using restaurante.domain;
+using Proj.Domain.Entities;
+
 
 namespace RestauranteController.Controllers
 {

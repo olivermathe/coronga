@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using restaurante.domain;
+using Proj.Domain.Entities;
 
 namespace Proj.Repository.Data
 {    public class DataContext : DbContext
@@ -7,6 +7,12 @@ namespace Proj.Repository.Data
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
         public DbSet<Restaurante> Restaurantes { get; set; }
         public DbSet<Consumo> Consumos { get; set; }
-
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Restaurante>() //relacionamento oneToMany
+                .HasMany<Consumo>(r => r.consumo)
+                .WithOne(c => c.restaurante)
+                .OnDelete(DeleteBehavior.Cascade);
+        }
     }
 }

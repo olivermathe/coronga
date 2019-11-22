@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Proj.Repository.Interfaces;
-using restaurante.domain;
+using Proj.Domain.Entities;
 
 namespace Proj.Api.Controllers
 {

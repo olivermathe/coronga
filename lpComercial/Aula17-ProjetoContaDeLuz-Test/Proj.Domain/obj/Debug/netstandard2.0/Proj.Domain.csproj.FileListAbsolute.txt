@@ -42,3 +42,11 @@ C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_P
 /Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/obj/Debug/netstandard2.0/Proj.Domain.AssemblyInfo.cs
 /Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/obj/Debug/netstandard2.0/Proj.Domain.dll
 /Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/obj/Debug/netstandard2.0/Proj.Domain.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/bin/Debug/netstandard2.0/Proj.Domain.deps.json
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/bin/Debug/netstandard2.0/Proj.Domain.dll
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/bin/Debug/netstandard2.0/Proj.Domain.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/obj/Debug/netstandard2.0/Proj.Domain.csprojAssemblyReference.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/obj/Debug/netstandard2.0/Proj.Domain.AssemblyInfoInputs.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/obj/Debug/netstandard2.0/Proj.Domain.AssemblyInfo.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/obj/Debug/netstandard2.0/Proj.Domain.dll
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Domain/obj/Debug/netstandard2.0/Proj.Domain.pdb

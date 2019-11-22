@@ -19,20 +19,20 @@ namespace Proj.Repository.Migrations
                 .HasAnnotation("ProductVersion", "2.2.6-servicing-10079")
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
-            modelBuilder.Entity("Proj.Domain.Entities.ContaLuz", b =>
+            modelBuilder.Entity("Proj.Domain.Entities.ContaRestaurante", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<DateTime>("dataLeitura");
+                    b.Property<DateTime>("dataAlmoco");
 
                     b.Property<DateTime>("dataPagamento");
 
-                    b.Property<int>("idimovel");
+                    b.Property<int>("idrestaurante");
 
-                    b.Property<int?>("imovelid");
+                    b.Property<int?>("restauranteid");
 
-                    b.Property<int>("kwGasto");
+                    b.Property<int>("kgGasto");
 
                     b.Property<double>("mediaConsumo");
 
@@ -40,12 +40,12 @@ namespace Proj.Repository.Migrations
 
                     b.HasKey("id");
 
-                    b.HasIndex("imovelid");
+                    b.HasIndex("restauranteid");
 
-                    b.ToTable("ContasLuz");
+                    b.ToTable("ContasRestaurante");
                 });
 
-            modelBuilder.Entity("Proj.Domain.Entities.Imovel", b =>
+            modelBuilder.Entity("Proj.Domain.Entities.Restaurante", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd();
@@ -56,20 +56,20 @@ namespace Proj.Repository.Migrations
 
                     b.Property<string>("estado");
 
-                    b.Property<string>("identificacao");
+                    b.Property<string>("id");
 
                     b.Property<string>("numero");
 
                     b.HasKey("id");
 
-                    b.ToTable("Imoveis");
+                    b.ToTable("Restaurantes");
                 });
 
-            modelBuilder.Entity("Proj.Domain.Entities.ContaLuz", b =>
+            modelBuilder.Entity("Proj.Domain.Entities.ContaRestaurante", b =>
                 {
-                    b.HasOne("Proj.Domain.Entities.Imovel", "imovel")
-                        .WithMany("contasLuz")
-                        .HasForeignKey("imovelid")
+                    b.HasOne("Proj.Domain.Entities.Restaurante", "restaurante")
+                        .WithMany("contasRestaurante")
+                        .HasForeignKey("restaurente")
                         .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618

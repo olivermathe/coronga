@@ -120,3 +120,53 @@ C:/Users/Wagner/Desktop/Desenvolvimento c#/Ulbra/2019_2/linguagem_comercial/G2_P
 /Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csproj.CopyComplete
 /Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.dll
 /Users/aldrinjr/Downloads/LPC-2019-2-Canoas-master/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.deps.json
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.runtimeconfig.json
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.runtimeconfig.dev.json
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.dll
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.Views.dll
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Web.Views.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Domain.dll
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Repository.dll
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Repository.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/bin/Debug/netcoreapp2.2/Proj.Domain.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csprojAssemblyReference.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorAssemblyInfo.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorAssemblyInfo.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.AssemblyInfoInputs.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.AssemblyInfo.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.TagHelpers.input.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.TagHelpers.output.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorCoreGenerate.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Create.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Index.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/Update.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/ContaLuz/View.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Create.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Index.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/Update.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Imovel/View.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorTargetAssemblyInfo.cache
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.RazorTargetAssemblyInfo.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.Views.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.csproj.CopyComplete
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.dll
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Proj.Web.pdb
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Contas Restaurante/Create.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Contas Restaurante/Index.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Contas Restaurante/Update.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Contas Restaurante/View.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Restaurante/Create.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Restaurante/Index.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Restaurante/Update.cshtml.g.cs
+/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/obj/Debug/netcoreapp2.2/Razor/Views/Restaurante/View.cshtml.g.cs

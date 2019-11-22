@@ -1,4 +1,4 @@
-using restaurante.domain;
+using Proj.Domain.Entities;
 
 namespace Proj.Repository.Interfaces
 {

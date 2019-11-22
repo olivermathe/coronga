@@ -7,14 +7,14 @@ namespace Proj.Repository.Data
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
-        public DbSet<ContaLuz> ContasLuz { get; set; }
-        public DbSet<Imovel> Imoveis { get; set; }
+        public DbSet<ContaRestaurante> ContasRestaurante { get; set; }
+        public DbSet<Restaurante> Restaurantes { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Imovel>()
-                .HasMany<ContaLuz>(i => i.contasLuz)
-                .WithOne(c => c.imovel)
+            modelBuilder.Entity<Restaurante>()
+                .HasMany<ContaRestaurante>(i => i.contasRestaurantes)
+                .WithOne(c => c.restaurante)
                 .OnDelete(DeleteBehavior.Cascade);
         }
     }
