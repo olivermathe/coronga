@@ -29,8 +29,6 @@
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Api/bin/Debug/netcoreapp3.0/Proj.Repository.pdb
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Api/bin/Debug/netcoreapp3.0/Proj.Domain.pdb
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Api/obj/Debug/netcoreapp3.0/Proj.Api.csprojAssemblyReference.cache
-/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Api/obj/Debug/netcoreapp3.0/staticwebassets/Proj.Api.StaticWebAssets.Manifest.cache
-/Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Api/obj/Debug/netcoreapp3.0/staticwebassets/Proj.Api.StaticWebAssets.xml
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Api/obj/Debug/netcoreapp3.0/Proj.Api.MvcApplicationPartsAssemblyInfo.cache
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Api/obj/Debug/netcoreapp3.0/Proj.Api.AssemblyInfoInputs.cache
 /Users/aldrinjr/ulbra/lpComercial/ContaRestaurante/Proj.Api/obj/Debug/netcoreapp3.0/Proj.Api.AssemblyInfo.cs

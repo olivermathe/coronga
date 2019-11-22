@@ -13,7 +13,7 @@
                 Restaurante
             </div>
             <div class="editor-field">
-                <select class="form-control" name="imovel.id" required>
+                <select class="form-control" name="restaurante.id" required>
                     <option value="" disabled>Selecione o restaurante</option>
                     @foreach(var Restaurante in ViewBag.Restaurante)
                     {
@@ -48,4 +48,4 @@
 
             @Html.ActionLink("Voltar para listagem", "Index", null, null, new { @class = "mt-2 d-block" })
         </div>
-    } -->
+    } 

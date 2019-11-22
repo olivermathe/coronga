@@ -85,7 +85,7 @@ namespace Proj.Api.Controllers
         public ActionResult Delete(int id)
         {
             repository.Delete(id);
-
+            
             return Ok(new
             {
                 status = "200",

@@ -9,7 +9,7 @@
     <div class="editor-field">
         <select class="form-control" name="restaurante.id" required>
             <option value="" disabled>Selecione o restaurante</option>
-            @foreach(var restaurante in ViewBag.Imoveis)
+            @foreach(var restaurante in ViewBag.Restaurante)
             {
                 <option value="@restaurante.id" selected="@(@restaurante.id == Model.restaurante.id)">@restaurante.identificacao | @restaurante.cidade</option>
             }
@@ -41,4 +41,4 @@
     <button type="submit" class="btn btn-primary d-block my-4 mx-auto">Atualizar</button>
 
     @Html.ActionLink("Voltar para listagem", "Index", null, null, new { @class = "mt-2 d-block" })
-</div> -->
+</div> 
