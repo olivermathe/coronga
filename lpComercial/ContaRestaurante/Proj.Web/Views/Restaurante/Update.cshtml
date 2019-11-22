@@ -37,17 +37,15 @@
                 <small class="form-text text-muted">@Html.ValidationMessageFor(model => model.endereco)</small>
             </div>
         </div>
-
         <div class="form-group col-12 col-sm-8 col-md-6 mx-auto">
             <div class="editor-label">
-                Estado
+                Numero
             </div>
             <div class="editor-field">
-                @Html.EditorFor(model => model.estado, new { htmlAttributes = new { @class = "form-control"} })
-                <small class="form-text text-muted">@Html.ValidationMessageFor(model => model.estado)</small>
+                @Html.EditorFor(model => model.numero, new { htmlAttributes = new { @class = "form-control"} })
+                <small class="form-text text-muted">@Html.ValidationMessageFor(model => model.numero)</small>
             </div>
         </div>
-
         <div class="form-group col-12 col-sm-8 col-md-6 mx-auto">
             <div class="editor-label">
                 Cidade
@@ -57,7 +55,15 @@
                 <small class="form-text text-muted">@Html.ValidationMessageFor(model => model.cidade)</small>
             </div>
         </div>
-
+        <div class="form-group col-12 col-sm-8 col-md-6 mx-auto">
+            <div class="editor-label">
+                Estado
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.estado, new { htmlAttributes = new { @class = "form-control"} })
+                <small class="form-text text-muted">@Html.ValidationMessageFor(model => model.estado)</small>
+            </div>
+        </div>
         <div class="d-block text-center">
             <button type="submit" class="btn btn-primary d-block my-4 mx-auto">Atualizar</button>
 
