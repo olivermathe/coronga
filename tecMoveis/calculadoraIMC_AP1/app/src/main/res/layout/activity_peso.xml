@@ -69,12 +69,13 @@
         android:id="@+id/textViewPeso"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="36dp"
+        android:layout_marginTop="72dp"
         android:fontFamily="@font/baloo_paaji"
-        android:text="Insira seu peso"
+        android:text="Quantos kg você pesa ? "
         android:textColor="#FFF"
+        android:textSize="18dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.474"
+        app:layout_constraintHorizontal_bias="0.457"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
@@ -87,10 +88,12 @@
         android:textColor="#000"
         android:textColorHighlight="#000"
         android:textColorHint="#000"
+        app:layout_constraintBottom_toTopOf="@+id/guideline4"
         app:layout_constraintEnd_toStartOf="@+id/guideline"
         app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
-        app:layout_constraintTop_toBottomOf="@+id/textViewPeso" />
+        app:layout_constraintTop_toBottomOf="@+id/textViewPeso"
+        app:layout_constraintVertical_bias="0.342" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline3"

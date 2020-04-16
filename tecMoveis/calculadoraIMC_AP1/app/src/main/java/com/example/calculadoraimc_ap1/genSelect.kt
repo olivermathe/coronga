@@ -10,7 +10,6 @@ class genSelect : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_gen_select)
-
         btnMasc.setOnClickListener{
             val intent = Intent(this, calculo::class.java)
             intent.putExtra("genero", "Masculino")

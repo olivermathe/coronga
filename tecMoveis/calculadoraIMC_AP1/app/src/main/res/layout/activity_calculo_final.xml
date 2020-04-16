@@ -13,29 +13,30 @@
         android:id="@+id/textPesoExcesso"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="72dp"
+        android:layout_marginBottom="116dp"
         android:fontFamily="@font/baloo_paaji"
         android:text="Peso em excesso"
         android:textColor="#FFF"
+        android:textSize="18dp"
         app:layout_constraintBottom_toTopOf="@+id/btnIntro"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.471"
+        app:layout_constraintHorizontal_bias="0.466"
         app:layout_constraintStart_toStartOf="@+id/guideline2" />
 
     <TextView
         android:id="@+id/textMassaMagra"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="112dp"
         android:fontFamily="@font/baloo_paaji"
         android:text="Massa Magra"
         android:textColor="#FFF"
+        android:textSize="18dp"
         app:layout_constraintBottom_toTopOf="@+id/guideline4"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.471"
+        app:layout_constraintHorizontal_bias="0.47"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
-        app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.4" />
+        app:layout_constraintTop_toBottomOf="@+id/textGordura"
+        app:layout_constraintVertical_bias="0.396" />
 
     <TextView
         android:id="@+id/textPesoIdeal"
@@ -45,11 +46,13 @@
         android:fontFamily="@font/baloo_paaji"
         android:text="Peso ideal"
         android:textColor="#FFF"
+        android:textSize="18dp"
         app:layout_constraintBottom_toTopOf="@+id/textPesoExcesso"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.475"
+        app:layout_constraintHorizontal_bias="0.474"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
-        app:layout_constraintTop_toTopOf="@+id/guideline4" />
+        app:layout_constraintTop_toTopOf="@+id/guideline4"
+        app:layout_constraintVertical_bias="0.022" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline5"
@@ -115,12 +118,11 @@
         android:fontFamily="@font/baloo_paaji"
         android:text="Gordura"
         android:textColor="#FFF"
-        app:layout_constraintBottom_toTopOf="@+id/textViewPeso3"
+        android:textSize="18dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.471"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
-        app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.044" />
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline3"

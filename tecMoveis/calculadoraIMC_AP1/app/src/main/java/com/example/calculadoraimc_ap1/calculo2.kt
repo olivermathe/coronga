@@ -12,15 +12,14 @@ class calculo2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_calculo2)
 
-
         val genero = intent.getStringExtra("genero")
         val densidade = intent.getDoubleExtra("densidade", .0);
         val gordura = ((4.95 / densidade) - 4.50) * 100
 
-        textView13.text = when(genero) {
-            "Masculino" -> this.getClassificacaoHomem(gordura);
-            "Feminino" -> this.getClassificacaoMulher(gordura)
-            else -> this.getClassificacaoHomem(gordura)
+        textViewCalculo2.text = when(genero) {
+            "Masculino" -> this.calculaMediaMasc(gordura);
+            "Feminino" -> this.calculaMediaFem(gordura)
+            else -> this.calculaMediaMasc(gordura)
         }
 
       btnPeso.setOnClickListener {
@@ -30,39 +29,36 @@ class calculo2 : AppCompatActivity() {
             startActivity(intent)
         }
     }
-
-    fun getClassificacaoHomem(gordura: Double): String {
+    fun calculaMediaMasc(gordura: Double): String {
         if (gordura <= 4) {
-            return "MAGRO"
+            return "magro"
         }
         if (gordura <= 8) {
-            return "ABAIXO DA MÉDIA"
+            return "Abaixo da média"
         }
         if (gordura <= 16) {
-            return "NA MÉDIA"
+            return "Na média"
         }
         if (gordura <= 24) {
-            return "ACIMA DA MÉDIA"
+            return "Acima da média"
         }
-        return "OBESO"
+        return "Obeso"
     }
-
-    fun getClassificacaoMulher(gordura: Double): String {
+    fun calculaMediaFem(gordura: Double): String {
         if (gordura <= 8) {
-            return "MAGRO"
+            return "Magra"
         }
         if (gordura <= 14) {
-            return "ABAIXO DA MÉDIA"
+            return "Abaixo da média"
         }
         if (gordura <= 22) {
-            return "NA MÉDIA"
+            return "Na média"
         }
         if (gordura <= 29) {
-            return "ACIMA DA MÉDIA"
+            return "Acima da média"
         }
-        return "OBESO"
+        return "Obesa"
     }
-
 }
 
 
